@@ -56,6 +56,14 @@ Here's a preview of the ERD diagram of the lake database created:
 
 Here's a preview of the analysis performed: [Olympic-Analysis](https://github.com/KbossGuru/Paris-Olympics-data-Pipeline/blob/main/Olympic-Analysis.sql)
 
+5. Loading data into Power BI for visualization
+    - Power BI Desktop is used to connect to the lake database via the Azure Synapse SQL data source.
+  
+Here's a preview of the Power BI dashboard:
+![ParisOlympics](https://github.com/KbossGuru/Paris-Olympics-data-Pipeline/blob/main/ParisOlympics.jpg)  
+
+## Other Resources
+
+1. Paris 2024 Olympics Kaggle Dataset - [Paris 2024 Olympics Dataset](https://www.kaggle.com/datasets/piterfm/paris-2024-olympic-summer-games?resource=download)
+2. Azure end-to-end Data Engineering Project - [Azure End-to-End Data Engineering Project](https://www.youtube.com/watch?v=IaA9YNlg5hM&t=12s)
    
- 
-    
