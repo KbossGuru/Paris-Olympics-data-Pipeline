@@ -4,7 +4,7 @@ An end-to-end Microsoft Azure data engineering project which includes data inges
 ##  Data Architecture
 ![Data Architecture](https://github.com/KbossGuru/Paris-Olympics-data-Pipeline/blob/main/ParisOlympicsArchitecture.jpg)
 
-## Tools used
+## Services used
 1. Azure Data Factory: Azure Data Factory is used for raw data ingestion from various sources. Azure data factory was used to ingest raw data from a Github data repository into the Azure Data Lake Storage Gen2.
 2. Data Lake Storage Gen2: Data Lake Storage Gen2 is a scalable data lake solution in Azure. Raw data ingested by Azure Data Factory is stored here for further processing and transformations.
 3. Azure Databricks: Azure databricks has a collaborative notebook for a variety of programming languages like python, SQL, Scala and R, and options to work with data. Databricks was used to write python codes to perform some data transformation on the datasets and loading the transformed dataset into a folder in data lake storage Gen2.
